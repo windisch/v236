@@ -35,10 +35,10 @@ editor:
   family: Locatello
 - given: Vanessa
   family: Didelez
-bibtex_author: Marmarelis, Myrl G and Steeg, Greg Ver and Galstyan, Aram and Morstatter,
+bibtex_author: Marmarelis, Myrl G. and Steeg, Greg Ver and Galstyan, Aram and Morstatter,
   Fred
 author:
-- given: Myrl G
+- given: Myrl G.
   family: Marmarelis
 - given: Greg Ver
   family: Steeg
