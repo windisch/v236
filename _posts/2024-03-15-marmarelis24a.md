@@ -40,7 +40,8 @@ bibtex_author: Marmarelis, Myrl G. and Steeg, Greg Ver and Galstyan, Aram and Mo
 author:
 - given: Myrl G.
   family: Marmarelis
-- given: Greg Ver
+- given: Greg
+  prefix: Ver
   family: Steeg
 - given: Aram
   family: Galstyan
